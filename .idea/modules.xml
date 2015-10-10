@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BlankScreen.iml" filepath="$PROJECT_DIR$/BlankScreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlankLauncherScreen.iml" filepath="$PROJECT_DIR$/BlankLauncherScreen.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
